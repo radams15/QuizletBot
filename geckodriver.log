@@ -1,0 +1,2157 @@
+1553333170690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EvqV61eMPqZf"
+1553333171150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553333171151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553333171151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553333173153	Marionette	INFO	Listening on port 46515
+1553333173205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Parent 13371, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13371, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13371, Gecko_IOThread] WARNING: pipe error (117): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553333185523	Marionette	INFO	Stopped listening on port 46515
+1553333215084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vqpMiHVdJ9d5"
+1553333215537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553333215538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553333215538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553333217615	Marionette	INFO	Listening on port 44429
+1553333217732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap1ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+(/usr/lib/firefox/firefox:13755): dconf-WARNING **: 09:31:00.902: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60870019/20181022035137392/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1553333512145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OvLgmNygCwYN"
+1553333512641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553333512642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553333512642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553333514916	Marionette	INFO	Listening on port 43511
+1553333514963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Parent 13987, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13987, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553333546459	Marionette	INFO	Stopped listening on port 43511
+1553333666308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V6fJhKQRKR0y"
+1553333667108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553333667109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553333667110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553333669508	Marionette	INFO	Listening on port 41399
+1553333669553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+JavaScript error: https://s0.2mdn.net/2635444/1541762139570/160x600px_Connect_EN_HTML/160x600px_Connect_EN.js, line 858: TypeError: this.illanimb is undefined
+[Parent 14428, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14428, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14428, Gecko_IOThread] WARNING: pipe error (123): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553333713171	Marionette	INFO	Stopped listening on port 41399
+JavaScript error: https://s0.2mdn.net/2635444/1541762139570/160x600px_Connect_EN_HTML/160x600px_Connect_EN.js, line 858: TypeError: this.illanimb is undefined
+1553333782147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.33Dyr6uKn5J6"
+1553333782752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553333782752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553333782752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553333785410	Marionette	INFO	Listening on port 40847
+1553333785484	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 13638, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13638, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553333794693	Marionette	INFO	Stopped listening on port 44429
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+Exiting due to channel error.
+[Child 14801, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14784, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553333808413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qpcoxtaGCD3E"
+1553333808862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553333808863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553333808863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553333810898	Marionette	INFO	Listening on port 37813
+1553333810930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap3ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 14961, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14961, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553333861235	Marionette	INFO	Stopped listening on port 37813
+1553333886064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.caqGEky4g9N6"
+1553333886510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553333886510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553333886510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553333888529	Marionette	INFO	Listening on port 39519
+1553333888577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15238, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15238, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553333927823	Marionette	INFO	Stopped listening on port 39519
+1553334277622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oTWpxrpp9xU1"
+1553334278078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553334278079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553334278079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553334280080	Marionette	INFO	Listening on port 42927
+1553334280144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap3ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553334435129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sHdUfpdwYkBK"
+1553334435570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553334435570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553334435570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553334437703	Marionette	INFO	Listening on port 46275
+1553334437744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap3ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+(/usr/lib/firefox/firefox:16018): dconf-WARNING **: 09:48:22.079: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1553334565950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pyso1wtwvKtp"
+1553334566496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553334566496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553334566496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553334568926	Marionette	INFO	Listening on port 38029
+1553334568970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+JavaScript error: https://bucket.cdnwebcloud.com/noah.min.js?1553334286988, line 2: TypeError: c is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60870019/20181022035137392/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s0.2mdn.net/2635444/1541762139570/160x600px_Connect_EN_HTML/160x600px_Connect_EN.js, line 858: TypeError: this.illanimb is undefined
+JavaScript error: https://s0.2mdn.net/2635444/1541762139570/160x600px_Connect_EN_HTML/160x600px_Connect_EN.js, line 858: TypeError: this.illanimb is undefined
+1553334978005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b97IbgLtDjP2"
+1553334978557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553334978558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553334978558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553334980898	Marionette	INFO	Listening on port 46661
+1553334980924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553334995671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qgdKQMAWPl3E"
+1553334996679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553334996680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553334996680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16779, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Parent 15625, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553335004416	Marionette	INFO	Stopped listening on port 42927
+[Parent 15910, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15910, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553335005202	Marionette	INFO	Stopped listening on port 46275
+[Parent 16231, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16231, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553335006591	Marionette	INFO	Stopped listening on port 38029
+1553335148440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ycosUOHdLXhX"
+1553335148903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553335148903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553335148903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553335151118	Marionette	INFO	Listening on port 43871
+1553335151164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Parent 17211, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17211, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553335170425	Marionette	INFO	Stopped listening on port 43871
+1553335271290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3W2ozliJgGoU"
+1553335271748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553335271748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553335271749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553335273858	Marionette	INFO	Listening on port 41651
+1553335273901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Parent 17515, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17515, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553335289896	Marionette	INFO	Stopped listening on port 41651
+1553335304513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E1pmPobBfP1S"
+1553335304981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553335304982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553335304982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553335307507	Marionette	INFO	Listening on port 45799
+1553335307532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553335323135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xteiUt0cTtyF"
+1553335323678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553335323679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553335323679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553335326000	Marionette	INFO	Listening on port 41433
+1553335326063	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17791, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17791, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553335327426	Marionette	INFO	Stopped listening on port 45799
+Exiting due to channel error.
+1553335368232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nD2C2CtdEhaH"
+1553335368740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553335368741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553335368741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553335370850	Marionette	INFO	Listening on port 37737
+1553335370969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Parent 18320, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18320, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18320, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553335387065	Marionette	INFO	Stopped listening on port 37737
+1553336018010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.07rPnoxWFvUo"
+1553336018470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336018470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336018471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336020578	Marionette	INFO	Listening on port 46587
+1553336020620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Parent 18987, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18987, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18987, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336040430	Marionette	INFO	Stopped listening on port 46587
+1553336069325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.50COYGrq9GRK"
+1553336069782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336069782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336069782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336072063	Marionette	INFO	Listening on port 37177
+1553336072187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Parent 19231, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 19231, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336097503	Marionette	INFO	Stopped listening on port 37177
+1553336153499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IyupGIpZSUUQ"
+1553336153963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336153964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336153964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336156153	Marionette	INFO	Listening on port 37703
+1553336156209	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19516, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 19516, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 19516, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336178954	Marionette	INFO	Stopped listening on port 37703
+1553336238323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YQVG8ns0bTXm"
+1553336238781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336238782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336238782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336240930	Marionette	INFO	Listening on port 40133
+1553336241051	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 19895, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 19895, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 19895, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 19895, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 19895, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 19895, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 19788, Gecko_IOThread] WARNING: pipe error (110): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336253408	Marionette	INFO	Stopped listening on port 40133
+1553336262179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Eka0o8UBfJki"
+1553336262638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336262638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336262638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336264764	Marionette	INFO	Listening on port 45989
+1553336264795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 20054, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20054, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20054, Gecko_IOThread] WARNING: pipe error (148): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336284324	Marionette	INFO	Stopped listening on port 45989
+1553336291096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lpgEAnm0eB3D"
+1553336291552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336291553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336291553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336293716	Marionette	INFO	Listening on port 43621
+1553336293835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Child 20407, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20294, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336312616	Marionette	INFO	Stopped listening on port 43621
+1553336344802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D0rmUscPxN87"
+1553336345294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336345294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336345295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336347616	Marionette	INFO	Listening on port 33943
+1553336347769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+[Parent 20581, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20581, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336369674	Marionette	INFO	Stopped listening on port 33943
+1553336373785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9QG87V6tUqau"
+1553336374284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336374285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336374285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336376644	Marionette	INFO	Listening on port 44665
+1553336376740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap1ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336390829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.v5P01d1QbJMt"
+1553336391347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336391347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336391347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336393701	Marionette	INFO	Listening on port 45235
+1553336393789	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336408064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qxaBts8NBzKE"
+1553336408583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336408583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336408583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336411120	Marionette	INFO	Listening on port 41173
+1553336411233	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336429129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YTB6pvbellgA"
+1553336429977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336429978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336429978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553336433237	Marionette	INFO	Listening on port 46663
+1553336433286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336448496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XRgnTlNkssnH"
+1553336449202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336449203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336449203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336451559	Marionette	INFO	Listening on port 40861
+1553336451615	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://vap1ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336466698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2ucT5tVUnFrR"
+1553336467467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336467468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336467468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336470338	Marionette	INFO	Listening on port 38629
+1553336470452	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://vap1ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336486215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DYxFLtutOI0a"
+1553336487130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336487131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336487131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336490311	Marionette	INFO	Listening on port 46469
+1553336490387	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553336504383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LCjCCGL3tw0i"
+1553336505252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336505252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336505253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336508010	Marionette	INFO	Listening on port 45471
+1553336508103	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://vap3ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336519380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BZDHFYafifyZ"
+1553336520234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336520235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336520235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336523586	Marionette	INFO	Listening on port 35947
+1553336523713	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://vap3ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336541111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x5xiSuyB5ABl"
+1553336542239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336542243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336542243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553336545303	Marionette	INFO	Listening on port 36373
+1553336545392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap1ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://s0.2mdn.net/2635444/1541762139570/160x600px_Connect_EN_HTML/160x600px_Connect_EN.js, line 858: TypeError: this.illanimb is undefined
+JavaScript error: https://s0.2mdn.net/2635444/1541762139570/160x600px_Connect_EN_HTML/160x600px_Connect_EN.js, line 858: TypeError: this.illanimb is undefined
+JavaScript error: https://s0.2mdn.net/2635444/1541762139570/160x600px_Connect_EN_HTML/160x600px_Connect_EN.js, line 858: TypeError: this.illanimb is undefined
+JavaScript error: https://s0.2mdn.net/2635444/1541762139570/160x600px_Connect_EN_HTML/160x600px_Connect_EN.js, line 858: TypeError: this.illanimb is undefined
+[Parent 23368, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 23368, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336638968	Marionette	INFO	Stopped listening on port 36373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1553336640966	Marionette	INFO	Stopped listening on port 35947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1553336641879	Marionette	INFO	Stopped listening on port 45471
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22518, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 22518, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336642675	Marionette	INFO	Stopped listening on port 46469
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22237, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336643282	Marionette	INFO	Stopped listening on port 38629
+[Parent 21958, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21958, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336643842	Marionette	INFO	Stopped listening on port 40861
+[Parent 21676, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21676, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336644323	Marionette	INFO	Stopped listening on port 46663
+[Parent 21402, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21402, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336644786	Marionette	INFO	Stopped listening on port 41173
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 21154, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21154, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336645464	Marionette	INFO	Stopped listening on port 45235
+[Parent 20875, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20875, Gecko_IOThread] WARNING: pipe error (110): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20875, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336645967	Marionette	INFO	Stopped listening on port 44665
+1553336659788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V4ARsJQ0KCC1"
+1553336660404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336660405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336660405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336662714	Marionette	INFO	Listening on port 39791
+1553336662802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://vap2ams1.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13413646, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+1553336677721	Marionette	INFO	Stopped listening on port 39791
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1553336678687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DVJsjuuPRkGf"
+1553336679155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336679156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336679156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336681289	Marionette	INFO	Listening on port 36613
+1553336681303	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553336838680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "user-data-dir=~/home/rhys/.mozilla/firefox/mwzwjulk.default" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c1EvF3Bs7Ynt"
+1553336839132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553336839132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553336839132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1553336841436	Marionette	INFO	Listening on port 36721
+1553336841494	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24468, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 24468, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553336867796	Marionette	INFO	Stopped listening on port 36721
+1553336919293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.laNfGCLlb8kl"
+1553336921251	Marionette	INFO	Listening on port 36381
+1553336921356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553336927059	Marionette	INFO	Stopped listening on port 36381
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1553336932442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QsIq2dDvoaMN"
+1553336935253	Marionette	INFO	Listening on port 34919
+1553336935272	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25240, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25163, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1553337009270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XRpN5RYpRD65"
+1553337011437	Marionette	INFO	Listening on port 39517
+1553337011507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553337017738	Marionette	INFO	Stopped listening on port 39517
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 25298, Gecko_IOThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553337123474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PU3s00tC7yN9"
+1553337125359	Marionette	INFO	Listening on port 33335
+1553337125422	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 25599, Gecko_IOThread] WARNING: pipe error (48): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553337141296	Marionette	INFO	Stopped listening on port 33335
+1553337172533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z9UGxvKx33b3"
+1553337174924	Marionette	INFO	Listening on port 34785
+1553337174998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553337241344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.anjOcgm4CedO"
+1553337243323	Marionette	INFO	Listening on port 40349
+1553337243383	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26245): dconf-WARNING **: 10:34:34.551: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26321, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 26245, Chrome_ChildThread] WARNING: pipe error (55): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 26245, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553337351980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.npfzT3dOuHAO"
+1553337354265	Marionette	INFO	Listening on port 39587
+1553337354359	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26700): dconf-WARNING **: 10:36:09.946: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60870019/20181022035137392/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 26700, Chrome_ChildThread] WARNING: pipe error (27): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 26700, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Sandbox: Unexpected EOF, op 0 flags 02400302 path /dev/shm/org.mozilla.ipc.26700.2984
+Exiting due to channel error.
+1553373104279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CQ50pEKPkRjq"
+1553373106402	Marionette	INFO	Listening on port 36005
+1553373106481	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15220, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+JavaScript error: https://secure.quantserve.com/quant.js, line 19: NS_ERROR_UNEXPECTED: 
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1553373108333	Marionette	INFO	Stopped listening on port 36005
+1553373430545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uRFqNvs7cMDU"
+1553373432477	Marionette	INFO	Listening on port 42933
+1553373432563	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15876): dconf-WARNING **: 20:37:29.530: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60870019/20181022035137392/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60870019/20181022035137392/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553373542796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wgi7GVUE0fzr"
+1553373544829	Marionette	INFO	Listening on port 45673
+1553373544929	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16295): dconf-WARNING **: 20:39:13.552: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+[Child 16295, Chrome_ChildThread] WARNING: pipe error (29): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1553373771413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XdDSDw6iKeBz"
+1553373773382	Marionette	INFO	Listening on port 36061
+1553373773493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553373779560	Marionette	INFO	Stopped listening on port 36061
+[Parent 16614, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553373793046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rJFrxWKOw4Pf"
+1553373795028	Marionette	INFO	Listening on port 33357
+1553373795130	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16944): dconf-WARNING **: 20:43:49.689: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60870019/20181022035137392/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553373922391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BvSFScmsASsn"
+1553373924308	Marionette	INFO	Listening on port 46293
+1553373924408	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17273): dconf-WARNING **: 20:45:42.333: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553419228570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EBcVt2nzHLiV"
+1553419231233	Marionette	INFO	Listening on port 37449
+1553419231359	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553419441345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xp1lZNe9kFOT"
+1553419443146	Marionette	INFO	Listening on port 43483
+1553419443365	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7829, Gecko_IOThread] WARNING: pipe error (112): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+IPDL protocol error: Handler returned error code!
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1553419478933	Marionette	INFO	Stopped listening on port 43483
+1553419769403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sdXXzMbDrcdL"
+1553419771432	Marionette	INFO	Listening on port 35927
+1553419771539	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8900, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 8830, Chrome_ChildThread] WARNING: pipe error (29): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 0 flags 02400302 path /dev/shm/org.mozilla.ipc.8830.3401
+Exiting due to channel error.
+1553419894001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fUJSsUyj4f6f"
+1553419895694	Marionette	INFO	Listening on port 41161
+1553419895853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553420054955	Marionette	INFO	Stopped listening on port 41161
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9144, Gecko_IOThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553420313316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xcHY9viMMlA9"
+1553420315274	Marionette	INFO	Listening on port 43637
+1553420315325	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10071, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1553420514632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tBDDxeHFF40w"
+1553420516912	Marionette	INFO	Listening on port 33383
+1553420517044	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10548, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10479, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553448682513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.r7zxjguSf4xl"
+1553448685631	Marionette	INFO	Listening on port 45925
+1553448685879	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6675, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6609, Gecko_IOThread] WARNING: pipe error (128): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553448694323	Marionette	INFO	Stopped listening on port 45925
+1553448704209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Yvn53C8OgwML"
+*** You are running in headless mode.
+1553448705957	Marionette	INFO	Listening on port 44877
+1553448706097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553448752383	Marionette	INFO	Stopped listening on port 44877
+1553450242706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5ldx6cWdFbsc"
+*** You are running in headless mode.
+1553450244440	Marionette	INFO	Listening on port 38763
+1553450244536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553450264754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N5xREQVBjZ7V"
+1553450266770	Marionette	INFO	Listening on port 33959
+1553450266823	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9046, Gecko_IOThread] WARNING: pipe error (47): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9046, Gecko_IOThread] WARNING: pipe error (55): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553450276201	Marionette	INFO	Stopped listening on port 33959
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1553450331016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.im8Spp3jRFgw"
+1553450333028	Marionette	INFO	Listening on port 45351
+1553450333188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553450341667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553450377679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BflqkDGJQWAD"
+1553450379697	Marionette	INFO	Listening on port 34913
+1553450379759	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9672, Gecko_IOThread] WARNING: pipe error (47): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553450391976	Marionette	INFO	Stopped listening on port 34913
+1553450399837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CUiKlLfgHMAM"
+1553450401806	Marionette	INFO	Listening on port 37371
+1553450401893	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9964, Gecko_IOThread] WARNING: pipe error (128): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9964, Gecko_IOThread] WARNING: pipe error (55): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553450420253	Marionette	INFO	Stopped listening on port 37371
+1553450429956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gKLnEUm5u0hn"
+1553450432071	Marionette	INFO	Listening on port 34947
+1553450432667	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10267, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553450450684	Marionette	INFO	Stopped listening on port 34947
+1553450465702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4pcD7BvgxJT9"
+1553450468595	Marionette	INFO	Listening on port 44711
+1553450471609	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10790, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 10632, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1553450492736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YobmclvvDSQH"
+1553450495170	Marionette	INFO	Listening on port 37349
+1553450495275	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10871, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10871, Gecko_IOThread] WARNING: pipe error (126): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10871, Gecko_IOThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553450507331	Marionette	INFO	Stopped listening on port 37349
+1553450520113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Lshmeb74ouoX"
+1553450522257	Marionette	INFO	Listening on port 40053
+1553450523629	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553450550578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dNRG8xUn2d8P"
+1553450553283	Marionette	INFO	Listening on port 39427
+1553450554735	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[Child 11537, Chrome_ChildThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 11537, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553450581353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I70RBGWy0GtE"
+1553450583394	Marionette	INFO	Listening on port 35811
+1553450584080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553450587114	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1553450594894	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+[Parent 11790, Gecko_IOThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553450595380	Marionette	INFO	Stopped listening on port 35811
+1553450613570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YcwZLV40apo7"
+1553450615704	Marionette	INFO	Listening on port 39429
+1553450615804	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12118, Gecko_IOThread] WARNING: pipe error (48): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553450624310	Marionette	INFO	Stopped listening on port 39429
+1553450835890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oPyb0k3uYYW3"
+1553450837924	Marionette	INFO	Listening on port 41319
+1553450838019	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12709, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 12642, Chrome_ChildThread] WARNING: pipe error (27): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Sandbox: Unexpected EOF, op 0 flags 02400302 path /dev/shm/org.mozilla.ipc.12642.1405
+Exiting due to channel error.
+1553450885780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mApuXPQ3SjyF"
+1553450887899	Marionette	INFO	Listening on port 44893
+1553450887998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13078, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12995, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12946, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553451037957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eVkOeiPNyFdB"
+1553451040059	Marionette	INFO	Listening on port 38379
+1553451040082	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13402, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1553451448589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2wp6N6omcFOe"
+1553451450803	Marionette	INFO	Listening on port 42937
+1553451450939	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13852, Gecko_IOThread] WARNING: pipe error (48): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13852, Gecko_IOThread] WARNING: pipe error (47): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451453247	Marionette	INFO	Stopped listening on port 42937
+1553451463032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OA90KQZoRQ9t"
+1553451465014	Marionette	INFO	Listening on port 40433
+1553451465060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 14157, Gecko_IOThread] WARNING: pipe error (47): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451484445	Marionette	INFO	Stopped listening on port 40433
+1553451492380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2cuyltdOGOXU"
+1553451494367	Marionette	INFO	Listening on port 44335
+1553451494398	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14495, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14495, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451511575	Marionette	INFO	Stopped listening on port 44335
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1553451519751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jcr9IXbOQ5JR"
+1553451522445	Marionette	INFO	Listening on port 32865
+1553451522494	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14858, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14858, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451533268	Marionette	INFO	Stopped listening on port 32865
+1553451585613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jD7FeIVPNYMW"
+1553451587708	Marionette	INFO	Listening on port 33447
+1553451587761	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15243, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15243, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451597557	Marionette	INFO	Stopped listening on port 33447
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1553451628747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WRxoQwVa1Hzg"
+1553451631128	Marionette	INFO	Listening on port 38313
+1553451631221	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15641, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553451681054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7RHW7gXEmohz"
+1553451683084	Marionette	INFO	Listening on port 39065
+1553451683169	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15932, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15932, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451688774	Marionette	INFO	Stopped listening on port 39065
+1553451698052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tOVsQ3U9G7ZX"
+1553451700386	Marionette	INFO	Listening on port 43533
+1553451700466	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1553451736318	Marionette	INFO	Stopped listening on port 43533
+1553451747090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Dvk4tQlTXZQt"
+1553451749038	Marionette	INFO	Listening on port 34055
+1553451749135	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16582, Gecko_IOThread] WARNING: pipe error (47): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16582, Gecko_IOThread] WARNING: pipe error (43): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451762942	Marionette	INFO	Stopped listening on port 34055
+1553451789832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Cvo4kIfybUjA"
+1553451791884	Marionette	INFO	Listening on port 34569
+1553451791952	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 16906, Gecko_IOThread] WARNING: pipe error (47): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16906, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451822285	Marionette	INFO	Stopped listening on port 34569
+1553451833152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u3eBEUgzsq5T"
+1553451835134	Marionette	INFO	Listening on port 36535
+1553451835178	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17241, Gecko_IOThread] WARNING: pipe error (48): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553451846872	Marionette	INFO	Stopped listening on port 36535
+1553451879261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.U5VCZmdR2zsO"
+1553451881191	Marionette	INFO	Listening on port 40223
+1553451881291	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 17631, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553451978022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G7Q5JCvItqW2"
+1553451979944	Marionette	INFO	Listening on port 33935
+1553451980343	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553452034802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GfPpYaECgfax"
+1553452036840	Marionette	INFO	Listening on port 43583
+1553452036919	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18338, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18276, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553452052666	Marionette	INFO	Stopped listening on port 43583
+1553452073888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W4h4VElKKjjS"
+1553452075810	Marionette	INFO	Listening on port 39369
+1553452075914	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[Child 18685, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1553452693039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HYPqyDUihIo5"
+1553452694931	Marionette	INFO	Listening on port 41693
+1553452694981	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19148, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553452699186	Marionette	INFO	Stopped listening on port 41693
+1553452710011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4luu4iVcb6Hu"
+1553452711951	Marionette	INFO	Listening on port 42425
+1553452712053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://quizlet.com/a/j/vendor/standalone/mootools.KX4DW.js, line 90: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1553452719390	Marionette	INFO	Stopped listening on port 42425
+1553452840225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oPjVAIyl6H0W"
+1553452842306	Marionette	INFO	Listening on port 41395
+1553452842365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://quizlet.com/a/j/vendor/standalone/mootools.KX4DW.js, line 90: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553452880685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.leCZxPg50DBp"
+1553452882613	Marionette	INFO	Listening on port 36077
+1553452882701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://quizlet.com/a/j/vendor/standalone/mootools.KX4DW.js, line 90: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1275: TypeError: currentPanel is undefined
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 20356, Gecko_IOThread] WARNING: pipe error (127): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20356, Gecko_IOThread] WARNING: pipe error (48): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553452911420	Marionette	INFO	Stopped listening on port 36077
+1553452923413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KaMTJI6ugWwp"
+1553452925399	Marionette	INFO	Listening on port 41775
+1553452925428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://quizlet.com/a/j/vendor/standalone/mootools.KX4DW.js, line 90: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1553452955678	Marionette	INFO	Stopped listening on port 41775
+1553452980827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UoE61JI84EgE"
+1553452982798	Marionette	INFO	Listening on port 40963
+1553452982861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://quizlet.com/a/j/vendor/standalone/mootools.KX4DW.js, line 90: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+[Parent 21057, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21057, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553452988198	Marionette	INFO	Stopped listening on port 40963
+1553453004972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ipQztNKXUd40"
+1553453007213	Marionette	INFO	Listening on port 33741
+1553453007314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://quizlet.com/a/j/vendor/standalone/mootools.KX4DW.js, line 90: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+[Parent 21377, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21377, Gecko_IOThread] WARNING: pipe error (47): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553453012808	Marionette	INFO	Stopped listening on port 33741
+1553453031991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lXXKAtAUh3cd"
+1553453033978	Marionette	INFO	Listening on port 37611
+1553453034030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://quizlet.com/a/j/vendor/standalone/mootools.KX4DW.js, line 90: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+[Parent 21694, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21694, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553453043702	Marionette	INFO	Stopped listening on port 37611
+1553453074212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G83NMd2A3O5j"
+1553453076254	Marionette	INFO	Listening on port 45439
+1553453076337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://quizlet.com/a/j/vendor/standalone/mootools.KX4DW.js, line 90: String.toLowerCase is deprecated; use String.prototype.toLowerCase instead
+1553453083490	Marionette	INFO	Stopped listening on port 45439
+1553530969431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XTVi9rcIQla3"
+1553530971305	Marionette	INFO	Listening on port 37595
+1553530971345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553530976065	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8036, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 7963, Chrome_ChildThread] WARNING: pipe error (28): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 7963, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553531379186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fsBNIVE7tfZ5"
+1553531381026	Marionette	INFO	Listening on port 39659
+1553531381106	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8794): dconf-WARNING **: 16:29:44.097: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60870019/20181022035137392/jquery-2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 8730, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553531410574	Marionette	INFO	Stopped listening on port 39659
+1553532096031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rj5cHm39vgSz"
+1553532098126	Marionette	INFO	Listening on port 40853
+1553532098155	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[Child 9715, Chrome_ChildThread] WARNING: pipe error (27): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 9715, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553532111857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rIY8Vze3nTAZ"
+1553532113778	Marionette	INFO	Listening on port 36605
+1553532113874	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553532172208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.01upFBpKJYHm"
+1553532174047	Marionette	INFO	Listening on port 46131
+1553532174133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10423, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 10351, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553532288937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZvGMC1huJjYr"
+1553532290807	Marionette	INFO	Listening on port 37301
+1553532290873	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1553532466996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BpzVvh2LzBmI"
+1553532468890	Marionette	INFO	Listening on port 42837
+1553532468939	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[Child 11215, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1553532552496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3fGTD6wMMp1I"
+1553532554372	Marionette	INFO	Listening on port 32815
+1553532554414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+[Parent 11475, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11475, Gecko_IOThread] WARNING: pipe error (127): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553532617656	Marionette	INFO	Stopped listening on port 32815
+1553532639565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fExyxi8FoBoX"
+1553532641788	Marionette	INFO	Listening on port 44629
+1553532641885	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11843, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11843, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553532701357	Marionette	INFO	Stopped listening on port 44629
+1553532744527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4xpHVGFLoyMr"
+1553532746916	Marionette	INFO	Listening on port 33357
+1553532746952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+[Parent 12219, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12219, Gecko_IOThread] WARNING: pipe error (40): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553532887051	Marionette	INFO	Stopped listening on port 33357
+1553532984970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iuaCRyuDiqbP"
+1553532987921	Marionette	INFO	Listening on port 45565
+1553532987994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 12663, Gecko_IOThread] WARNING: pipe error (125): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553533036500	Marionette	INFO	Stopped listening on port 45565
+1553533058666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lEHQpfWtLk4B"
+1553533062126	Marionette	INFO	Listening on port 40087
+1553533062198	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13215, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13148, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 13037, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1553533123814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4jmlSqqrjXPY"
+1553533127393	Marionette	INFO	Listening on port 34533
+1553533127460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 13326, Gecko_IOThread] WARNING: pipe error (135): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520022,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1553533181208	Marionette	INFO	Stopped listening on port 34533
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 404: Error: OS.File has been shut down. Rejecting post to stat
+1553533235233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.reLQAcm6ZNVZ"
+1553533239122	Marionette	INFO	Listening on port 42225
+1553533239164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13967, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13910, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 13867, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553533288038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6k1ZovR4Culd"
+1553533292210	Marionette	INFO	Listening on port 37671
+1553533292302	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14175): dconf-WARNING **: 17:01:37.792: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14303, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 14271, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14175, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553533341244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5cVu6jTLpkJg"
+1553533345138	Marionette	INFO	Listening on port 33627
+1553533345318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1553533366649	Marionette	INFO	Stopped listening on port 33627
+1553533414780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qhoJL9hJY5sv"
+1553533419245	Marionette	INFO	Listening on port 45733
+1553533419397	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14865): dconf-WARNING **: 17:03:44.559: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/61035069/20190228062116652/bt_broadband_dynamic_feb2019_refresh_160x600/scripts.js, line 718: unreachable code after return statement
+[Parent 14790, Gecko_IOThread] WARNING: pipe error (132): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 14790, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553533518639	Marionette	INFO	Stopped listening on port 45733
+1553533590606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qlYMX5rpQct5"
+1553533594819	Marionette	INFO	Listening on port 46501
+1553533594892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15409, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1553533782867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YFJ4L9R4SrIE"
+1553533786609	Marionette	INFO	Listening on port 41341
+1553533786689	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15904, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15836, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553534123094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YTkFoKVvDRki"
+1553534126759	Marionette	INFO	Listening on port 39151
+1553534126856	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 16457, Chrome_ChildThread] WARNING: pipe error (27): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 16457, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1553534173060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hn7OW2T2qdHC"
+1553534175843	Marionette	INFO	Listening on port 35815
+1553534175920	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16919, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16838, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[Child 16763, Chrome_ChildThread] WARNING: pipe error (27): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Child 16763, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1553534227941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xnyrfulxdb2v"
+1553534231329	Marionette	INFO	Listening on port 44889
+1553534231435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 17018, Gecko_IOThread] WARNING: pipe error (128): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17018, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553534402716	Marionette	INFO	Stopped listening on port 44889
+1553534445573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D1UMvTGtL6MN"
+1553534448993	Marionette	INFO	Listening on port 37763
+1553534449099	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17608, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1553534506688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MDDI57LXkWy6"
+1553534510138	Marionette	INFO	Listening on port 46499
+1553534510206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+[Parent 17773, Gecko_IOThread] WARNING: pipe error (140): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553534721649	Marionette	INFO	Stopped listening on port 46499
+1553535056373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZJE1q80cK9yq"
+1553535060899	Marionette	INFO	Listening on port 34359
+1553535061010	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18397, Gecko_IOThread] WARNING: pipe error (134): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1553535113602	Marionette	INFO	Stopped listening on port 34359
+1553535163755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9LvFFDOKX5OT"
+1553535168015	Marionette	INFO	Listening on port 40017
+1553535168185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Child 18838, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 18838, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 18838, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 18838, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1553535518461	Marionette	INFO	Stopped listening on port 40017
+1553535537359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yUi2k5vfhp03"
+1553535541489	Marionette	INFO	Listening on port 44685
+1553535541612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 19183, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553535983953	Marionette	INFO	Stopped listening on port 44685
+1553536172409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lNjC5kNDMZXr"
+1553536176950	Marionette	INFO	Listening on port 33491
+1553536177047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 19926, Gecko_IOThread] WARNING: pipe error (139): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1553536196824	Marionette	INFO	Stopped listening on port 33491
+1553536246464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3KZMilro3ZvQ"
+1553536250177	Marionette	INFO	Listening on port 46447
+1553536250196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 20329, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-JmEWYv/firefox-66.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553536971767	Marionette	INFO	Stopped listening on port 46447
+1553536988220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zzc1YZMY1Cnq"
+1553536991253	Marionette	INFO	Listening on port 35427
+1553536991346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://quizlet.com/a/j/dist/common.3048360962cb03d.a.en-gb.js, line 55: Error: TrackedCursorTextarea missing textareaRef in getTextarea
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5F0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
